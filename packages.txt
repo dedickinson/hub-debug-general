@@ -1,0 +1,8 @@
+python3.6
+man-db
+vim
+minicom
+iputils-ping
+iputils-tracepath
+net-tools
+less
