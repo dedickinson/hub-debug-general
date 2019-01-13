@@ -6,3 +6,5 @@ iputils-ping
 iputils-tracepath
 net-tools
 less
+iproute2
+dnsutils
