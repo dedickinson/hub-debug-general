@@ -1,4 +1,5 @@
-# hub-debug-general
+# Hub Debug General
+
 A fat container with general tools for debugging
 
 Add required packages to `packages.txt`.

@@ -1,7 +1,7 @@
 FROM ubuntu:bionic
 
 RUN apt update \
-    && apt upgrade
+    && apt upgrade -y
 
 COPY packages.txt /tmp/packages.txt
 
